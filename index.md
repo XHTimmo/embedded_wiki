@@ -14,6 +14,6 @@ hero:
 features:
   - title: C51单片机
     details: C51单片机的软硬结合
-    link: /嵌入式/C51单片机/index
+    link: ./C51单片机/index
 ---
 
