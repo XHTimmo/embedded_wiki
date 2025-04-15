@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: C51
-      link: ./C51单片机/index
+      link: ./C51/index
 
 features:
   - title: C51单片机
